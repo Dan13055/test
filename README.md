@@ -1,3 +1,3 @@
 # Übung 1
 ## Beispiel 1
-Digitales Höhenmodell des Berg
+Digitales Höhenmodell des Nevado
